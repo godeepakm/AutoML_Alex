@@ -1,10 +1,9 @@
-
-
 <h3 align="center">AutoML Alex</h3>
 
 <div align="center">
 
-[![Downloads](https://pepy.tech/badge/automl-alex)](https://pepy.tech/project/automl-alex)
+[![Downloads](https://pepy.tech/badge/automl-alex)](https://pepy.tech/project/automl-alex)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgodeepakm%2FAutoML_Alex.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgodeepakm%2FAutoML_Alex?ref=badge_shield)
+
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/automl-alex)
 ![PyPI](https://img.shields.io/pypi/v/automl-alex)
 [![CodeFactor](https://www.codefactor.io/repository/github/alex-lekov/automl_alex/badge)](https://www.codefactor.io/repository/github/alex-lekov/automl_alex)
@@ -180,3 +179,7 @@ $ optuna-dashboard sqlite:///db.sqlite3
 
 [Telegram Group](https://t.me/automlalex)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgodeepakm%2FAutoML_Alex.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgodeepakm%2FAutoML_Alex?ref=badge_large)
